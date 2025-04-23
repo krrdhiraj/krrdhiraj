@@ -58,15 +58,6 @@
   </a>
 </p>
 
----
-
-### 💡 Fun Fact
-
-> I debug with coffee ☕ and deploy with confidence 🚀  
-> Let’s build something amazing together!
-
----
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=krrdhiraj.visitor-badge" alt="Visitor Badge"/>
 </p>
